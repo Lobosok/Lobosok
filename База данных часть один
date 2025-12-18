@@ -1,0 +1,20 @@
+from sqlalchemy import create_engine, Column, Integer, String, Text
+from sqlalchemy.orm import declarative_base, sessionmaker
+from config import DB_PATH
+
+Base = declarative_base()
+
+class Vacancy(Base):
+    __tablename__ = 'vacancies'
+    
+    id = Column(Integer, primary_key=True)
+    title = Column(String, nullable=False)
+    description = Column(Text, nullable=True)
+    requirements = Column(Text, nullable=True)
+
+class Candidate(Base):
+    __tablename__ = 'candidates'
+    
+    id = Column(Integer, primary_key=True)
+    name = Column(String, nullable=False)
+    phone = Column(String, nullable=False)
