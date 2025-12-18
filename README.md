@@ -108,6 +108,59 @@ Eightfold AI	Рекрутинг с ИИ, подбор кандидатов с у
 <img width="607" height="203" alt="image" src="https://github.com/user-attachments/assets/d7f38b72-063f-4455-a834-3fd987de7532" />
 Второй класс это список кандидатов
 <img width="718" height="302" alt="image" src="https://github.com/user-attachments/assets/3044b73a-6f00-4952-9670-ae5ce87188f7" />
+Далее мы написали код самого чат бота
+<img width="974" height="439" alt="image" src="https://github.com/user-attachments/assets/c7446f50-157f-4355-a86e-b7b285a4f7e9" />
+<img width="790" height="360" alt="image" src="https://github.com/user-attachments/assets/8a4f6887-2318-4174-8dbe-e7a7bf903249" />
+<img width="974" height="244" alt="image" src="https://github.com/user-attachments/assets/0807ea3f-821c-4ff9-895f-602ed74dabb7" />
+<img width="805" height="408" alt="image" src="https://github.com/user-attachments/assets/8c581a22-ba93-4af4-ad3d-ec094c60d674" />
+<img width="974" height="401" alt="image" src="https://github.com/user-attachments/assets/6a27620d-3d5a-4922-b194-6868fbfed768" />
+<img width="974" height="466" alt="image" src="https://github.com/user-attachments/assets/a6cbadda-a13f-4973-beb6-7b04fca3b3cb" />
+<img width="538" height="551" alt="image" src="https://github.com/user-attachments/assets/8baa2f34-a199-461f-bae2-a90793560caf" />
+<img width="974" height="455" alt="image" src="https://github.com/user-attachments/assets/9c7db290-527c-432e-b366-36c137f49d8c" />
+<img width="867" height="454" alt="image" src="https://github.com/user-attachments/assets/3e143d61-239c-4b20-ad5a-d792031dab93" />
+<img width="974" height="389" alt="image" src="https://github.com/user-attachments/assets/7a296e1d-7432-488e-9a5d-7f8d74abdf14" />
+<img width="714" height="408" alt="image" src="https://github.com/user-attachments/assets/f677a331-e06d-46f4-b302-2498df6ddfab" />
+<img width="934" height="453" alt="image" src="https://github.com/user-attachments/assets/ffb0acb6-07b4-4667-b099-a1c63621103c" />
+<img width="974" height="480" alt="image" src="https://github.com/user-attachments/assets/14bbb709-4fe6-4aa5-af5c-1420b3d42fec" />
+<img width="714" height="550" alt="image" src="https://github.com/user-attachments/assets/219d7712-7f46-41fb-b6bf-58c815e55831" />
+<img width="974" height="346" alt="image" src="https://github.com/user-attachments/assets/d090c217-7d34-4c98-b1c8-1484855b8e1d" />
+<img width="974" height="420" alt="image" src="https://github.com/user-attachments/assets/8fae8f0e-d441-434f-8754-238502d93bd1" />
+<img width="974" height="486" alt="image" src="https://github.com/user-attachments/assets/852b787b-d2b9-4277-851b-50018b72fdc9" />
+<img width="974" height="402" alt="image" src="https://github.com/user-attachments/assets/b871a86c-6274-4015-b544-f19342b0da39" />
+Какие - то команды бота может вводить только администратор с целью конфиденциальности. Например посмотреть список кандидатов или добавить вакансию в бот.
+В будущем наш телеграмм бот будет усовершенствоваться, мы добавим туда больше функций и возможностей.
+В итоге наш бот заработал.
+Заключение.
+При работе над проектом HR-помощник решены все поставленные задачи:
+1	Мы изучили функциональные возможности HR-помощника
+2	Мы провели анализ текущих проектов.
+3	Мы составили план и определили этапы нашей разработки.
+4	Мы выбрали технологическую базу.
+5	Мы выполнили разработку.
+  Вывод
+Мы достигли нашей цели. Мы создали HR-ботаю Было не просто, мы столкнулись с рядом проблем. Но в итоге мы создали бота который исправно работает. В дальнейшем мы будем развивать наш бот, чтобы он становился все лучше и техлогичней.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
