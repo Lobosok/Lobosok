@@ -1,0 +1,27 @@
+from sqlalchemy import create_engine, Column, Integer, String, Text
+from sqlalchemy.orm import declarative_base, sessionmaker
+from config import DB_PATH
+
+Base = declarative_base()
+
+class Vacancy(Base):
+    __tablename__ = 'vacancies'
+    
+    id = Column(Integer, primary_key=True)
+    title = Column(String, nullable=False)
+    description = Column(Text, nullable=True)
+    requirements = Column(Text, nullable=True)
+
+class Candidate(Base):
+    __tablename__ = 'candidates'
+    
+    id = Column(Integer, primary_key=True)
+    name = Column(String, nullable=False)
+    phone = Column(String, nullable=False)
+    resume = Column(Text, nullable=True)
+
+engine = create_engine(f'sqlite:///{DB_PATH}')
+Session = sessionmaker(bind=engine)
+
+def init_db():
+    Base.metadata.create_all(engine)
