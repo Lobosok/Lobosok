@@ -146,6 +146,10 @@ Eightfold AI	Рекрутинг с ИИ, подбор кандидатов с у
 5	Мы выполнили разработку.
   Вывод
 Мы достигли нашей цели. Мы создали HR-ботаю Было не просто, мы столкнулись с рядом проблем. Но в итоге мы создали бота который исправно работает. В дальнейшем мы будем развивать наш бот, чтобы он становился все лучше и техлогичней.
+•	Список литературы:
+•	https://radiotochki.net/blog/ai/kak-sozdat-chat-bota-dlya-vnutrennego-ispolzovaniya-poshagovoe-rukovodstvo-po-sborke-hr-i-it-pomoshchnika-bez-koda.html?ysclid=mi8yw3s7qy312719127
+•	https://teamly.ru/blog/chatbot_dlya_hr_svoimi_rukami_detalnoe_rukovodstvo/?ysclid=mi8ytx5opx974171882
+
 
 
 
